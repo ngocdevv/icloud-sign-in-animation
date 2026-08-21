@@ -1,0 +1,28 @@
+{
+  "name": "icloud-sigin-in-animation",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "dependencies": {
+    "@expo/vector-icons": "^15.0.2",
+    "@shopify/react-native-skia": "2.6.2",
+    "expo": "~57.0.13",
+    "expo-font": "~57.0.1",
+    "expo-status-bar": "~57.0.1",
+    "react": "19.2.3",
+    "react-native": "0.86.2",
+    "react-native-reanimated": "4.5.1",
+    "react-native-worklets": "0.10.1"
+  },
+  "devDependencies": {
+    "@types/react": "~19.2.2",
+    "typescript": "~6.0.3"
+  },
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "test": "node --test tests/*.test.cjs",
+    "web": "expo start --web"
+  },
+  "private": true
+}
