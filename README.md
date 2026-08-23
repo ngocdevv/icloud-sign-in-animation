@@ -2,6 +2,6 @@
 
 ## Demo
 
-[![demo](./demo.mp4)]
+[![demo](./demo.gif)]
 
 Click the preview to open the original video.
